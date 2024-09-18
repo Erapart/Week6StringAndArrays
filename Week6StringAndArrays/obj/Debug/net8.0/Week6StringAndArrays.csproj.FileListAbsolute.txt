@@ -1,0 +1,14 @@
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net8.0\Week6StringAndArrays.exe
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net8.0\Week6StringAndArrays.deps.json
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net8.0\Week6StringAndArrays.runtimeconfig.json
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net8.0\Week6StringAndArrays.dll
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\bin\Debug\net8.0\Week6StringAndArrays.pdb
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net8.0\Week6StringAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net8.0\Week6StringAndArrays.AssemblyInfoInputs.cache
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net8.0\Week6StringAndArrays.AssemblyInfo.cs
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net8.0\Week6StringAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net8.0\Week6StringAndArrays.dll
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net8.0\refint\Week6StringAndArrays.dll
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net8.0\Week6StringAndArrays.pdb
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net8.0\Week6StringAndArrays.genruntimeconfig.cache
+C:\Users\malle\source\repos\Week6StringAndArrays\Week6StringAndArrays\obj\Debug\net8.0\ref\Week6StringAndArrays.dll
